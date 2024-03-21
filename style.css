@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    padding: 9% 0%;
+    margin: 5% ;
+    background-color: rgb(37, 39, 39);
+    text-align: center;
+}
+h3{
+    color:yellow;
+    margin: 2%;
+}
+p{
+    background-color:rgb(132, 255, 169);
+    margin:  2%;
+}
+head{
+    padding: 6px;
+    background-color: rgb(37, 39, 39);
+}
+#section_2{
+    margin: 3%;
+    padding: auto;
+}
+#section_3{
+    margin: 3%;
+    padding: auto;
+    background-color: rgba(0, 0, 0, 0);
+}
